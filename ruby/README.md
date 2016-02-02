@@ -6,10 +6,11 @@ This project contains examples on how to make FamilySearch API requests in the R
 To setup this project to run, complete the following steps:
 
 1. Clone the project to a local folder
-
 2. Open a terminal, navigate to the "ruby" directory and install depencies by using [bundler](http://bundler.io).
 
-`bundle install`
+```bash
+bundle install
+```
 
 That's it! You should be ready to run the examples.
 
